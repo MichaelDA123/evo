@@ -135,3 +135,4 @@ Currently available locales are:
 5. Commit your changes: `cz` OR `npm run commit` do not use `git commit`
 6. Push to the branch: `git push origin my-new-feature`
 7. Submit a pull request
+8. And finish
